@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/168768?v=4" alt="Scott Nixon" width="160" />
 
-**AI Platform Engineer at Citi** · Infrastructure operator · Builder of agentic software factories
+**Senior Platform Engineer at Citi**
 
 ![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
