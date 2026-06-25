@@ -21,8 +21,6 @@
 
 ![Experience: 20+ years](https://img.shields.io/static/v1?label=Experience&message=20%2B%20years&color=2b2b2b&style=flat-square&logo=terminal&logoColor=white)
 ![Focus: Billions of tokens](https://img.shields.io/static/v1?label=AI%20Scale&message=Billions%20of%20tokens&color=2b2b2b&style=flat-square&logo=openai&logoColor=white)
-![Followers](https://img.shields.io/github/followers/citadelgrad?style=flat-square&label=GitHub%20Followers&color=2b2b2b&logo=github&logoColor=white)
-![Profile Repo Stars](https://img.shields.io/github/stars/citadelgrad/citadelgrad?style=flat-square&label=Profile%20Stars&color=2b2b2b&logo=github&logoColor=white)
 
 [![Website](https://img.shields.io/badge/citadelgrad.co-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://citadelgrad.co)
 [![PAS CLI](https://img.shields.io/badge/PAS%20CLI-pascals--discrete--attractor-2b2b2b?style=flat-square&logo=rust&logoColor=white)](https://github.com/citadelgrad/pascals-discrete-attractor)
